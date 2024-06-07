@@ -8,7 +8,7 @@ Repo contains outcomes from `DEEP LEARNING COURSE` taught in IIIT-Hyderabad. Thi
 
 
 - [***For people already aware of fundamental concepts, here's a deepdive into SEGFORMERS -one of SOTA for Segmentation tasks***](Segformer_deepdive.md)
-- [***For people interested in Deployment strategies - here's a deepdive into Neural  Optimization techniques***]
+
 
 ## Agenda
 - [Problem Statement](#problem-statement)
