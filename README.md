@@ -1,7 +1,7 @@
 # SegFormer from Scratch
 
 # Semantic Segmentation using Deep Learning
-Repo contains outcomes from `IMAGE SEGMENTATION COURSE` taught in IIIT-Hyderabad. This post is a gist of what the course teaches for anyone willing to learn about <u>Semantic Segmentation using Modern Deep Learning</u>
+Repo contains outcomes from `DEEP LEARNING COURSE` taught in IIIT-Hyderabad. This post is a gist of what the course teaches for anyone willing to learn about <u>Semantic Segmentation using Modern Deep Learning</u>
 
 <!-- <span style="background-color:grey">Semantic Segmentation</span> <span style="background-color:grey">Pytorch</span> <span style="background-color:grey">Deeplabv3+</span> -->
 
